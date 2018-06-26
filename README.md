@@ -1,4 +1,3 @@
-# umi-dva-user-dashboard
-
-详见[《umi + dva，完成用户管理的 CURD 应用》](https://github.com/sorrycc/blog/issues/62)
+# dva-starter
+based on react, react-router and antd, fast and streamlined dva technology stack project creation demo.
 
