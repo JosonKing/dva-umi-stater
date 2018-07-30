@@ -14,7 +14,7 @@ function Header({ location }) {
           <Link to="/"><Icon type="home" />Home</Link>
         </Menu.Item>
         <Menu.Item key="/codes">
-          <Link to="/codes"><Icon type="code" />Code</Link>
+          <Link to="/codes"><Icon type="code" />Money</Link>
         </Menu.Item>
         <Menu.Item key="/users">
           <Link to="/users"><Icon type="bars" />Users</Link>

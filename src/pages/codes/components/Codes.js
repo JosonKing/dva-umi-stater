@@ -42,14 +42,29 @@ function Codes({ dispatch, list: dataSource, loading, total, page: current }) {
       render: text => <a href="">{text}</a>,
     },
     {
-      title: 'Email',
-      dataIndex: 'email',
-      key: 'email',
+      title: 'money',
+      dataIndex: 'money',
+      key: 'money',
     },
     {
-      title: 'Website',
-      dataIndex: 'website',
-      key: 'website',
+      title: 'use',
+      dataIndex: 'use',
+      key: 'use',
+    },
+    {
+      title: 'invoice',
+      dataIndex: 'invoice',
+      key: 'invoice',
+    },
+    {
+      title: 'date',
+      dataIndex: 'date',
+      key: 'date',
+    },
+    {
+      title: 'remark',
+      dataIndex: 'remark',
+      key: 'remark',
     },
     {
       title: 'Operation',
